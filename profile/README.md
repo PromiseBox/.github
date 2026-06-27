@@ -4,6 +4,7 @@
 
 ### 약손 AI — 노인 복약 안전을 위한 AI 에이전트
 ### Yakson AI — An AI-powered Polypharmacy Safety Agent for Older Adults
+서비스 바로가기 > https://yakson-ai.vercel.app
 
 [한국어](#한국어) | [English](#english)
 
