@@ -1,6 +1,6 @@
 <div align="center">
 
-# 약속상자 · PromiseBox
+## 팀 약속상자 · Team PromiseBox
 
 ### 약손 AI — 노인 복약 안전을 위한 AI 에이전트
 ### Yakson AI — An AI-powered Polypharmacy Safety Agent for Older Adults
