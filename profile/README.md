@@ -47,10 +47,11 @@
 | AI / 데이터 | Vertex AI, 식약처 DUR · 심평원 OpenAPI |
 | 데이터 파이프라인 | ETL (Apache Airflow) |
 
-### 저장소
+### 공개 저장소
 
 | 저장소 | 설명 |
 | --- | --- |
+| [`yakson-ai`](https://github.com/PromiseBox/yakson-ai)| UI·서버 서비스 |
 | [`yaksson-ai`](https://github.com/PromiseBox/yaksson-ai) | 기획·문서 저장소 (아키텍처, 화면정의서, DB 설계) |
 | [`ui_prototype`](https://github.com/PromiseBox/ui_prototype) | Google AI Studio 기반 UI 프로토타입 |
 
@@ -103,10 +104,11 @@ It is designed for polypharmacy settings — where older adults take multiple me
 | AI / Data | Vertex AI, MFDS DUR · HIRA OpenAPI |
 | Data Pipeline | ETL (Apache Airflow) |
 
-### Repositories
+### Publich Repositories
 
 | Repository | Description |
 | --- | --- |
+| [`yakson-ai`](https://github.com/PromiseBox/yakson-ai)| UI·Server Service |
 | [`yaksson-ai`](https://github.com/PromiseBox/yaksson-ai) | Planning & documentation (architecture, screen specs, DB design) |
 | [`ui_prototype`](https://github.com/PromiseBox/ui_prototype) | UI prototype built with Google AI Studio |
 
